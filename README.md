@@ -1,3 +1,3 @@
 # MemoryLane
 
-Website collection for me and my close friends.
+Website memory collection for me and my close friends.
