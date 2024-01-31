@@ -1,0 +1,47 @@
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="Styles/style1.css">
+    <script type="text/javascript" src="style.js"></script>
+    <title>Memory Lane</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+</head>
+
+<header>
+    <img class="squad" width="80" height="40" src="squad.jpg" alt="Squads">
+    <img class="background" width="1504" height="830" src="background.jpg" alt="background">
+</header>
+
+<body>
+
+        <nav class="topnav" id="myTopnav">
+            <a href="index.html" class="active">Home</a>
+            <a href="fortnite.html">Fortnite</a>
+            <a href="">Leauge of Legends</a>
+            <a href="">Apex Legends</a>
+            <a href="Real life.html">Real Life</a>
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+        </nav>
+
+
+    <div class="myDiv">
+        <h2>Welcome to our Memory Lane</h2>
+        <p>This website is based on a group of weirdos with top level skills to funny game clips and all the way to retarded IRl clips.</p>
+    </div>
+
+    <br></br>
+
+    <!--    not needed but keep just in case
+    <div>
+        <img class="fort" width="180" height="60" src="fortnite.jpg" alt="Fortnite">
+        <img class="LoL" width="180" height="65" src="LoL.jpg" alt="Leauge Of Legends">
+        <img class="Apex" width="180" height="65" src="Apex.jpg" alt="Apex Legends">
+        <<img class="Apex" width="180" height="65" src="Apex.jpg" alt="Apex Legends"> Add image for IRL image
+    </div>
+    -->
+
+</body>
+
+</html>
